@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@google/genai": "^1.11.0",
+    "@google/generative-ai": "^0.24.1",
+    "@supabase/supabase-js": "^2.52.1",
+    "genai": "^0.0.18",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "supabase": "^2.31.8"
+  }
+}
